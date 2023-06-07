@@ -1,4 +1,4 @@
-### Hi there 👋 I am ADITYA PANDEY
+# Hi there 👋 I am ADITYA PANDEY
 
 <!--
 **AsAdityaSonu/AsAdityaSonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
