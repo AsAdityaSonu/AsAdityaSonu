@@ -38,19 +38,33 @@ Here are some ideas to get you started:
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AsAdityaSonu&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AsAdityaSonu&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsAdityaSonu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# 📈 GitHub Stats:
 
-## 🐦 Latest Tweet
+<p align="center">
+<!-- <img width="88%" src="https://activity-graph.herokuapp.com/graph?username=AsAdityaSonu&theme=react-dark&hide_border=true"> -->
+<!-- <img width="88%" src="https://github-readme-activity-graph.cyclic.app/graph?username=AsAdityaSonu&theme=react-dark&hide_border=true"> -->
+<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=AsAdityaSonu&theme=react-dark&hide_border=true">
+<!-- <img width="88%" src="https://github-readme-activity-graph.AsAdityaSonu.repl.co/graph?username=AsAdityaSonu&theme=react-dark&hide_border=true"> -->
+
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AsAdityaSonu&theme=react&hide_border=true&include_all_commits=true&count_private=true&line_height=30&show_icons=true&custom_title=Github%20Stats&border_radius=10&bg_color=0D1117" alt="AsAdityaSonu" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=AsAdityaSonu&theme=react&hide_border=true&background=0D1117" alt="AsAdityaSonu" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsAdityaSonu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Jekyll-Default-Website&border_radius=10&bg_color=0D1117" alt="AsAdityaSonu" /> 
+</p>
+
+
+<!--  ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=asadityasonu)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+-->
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AsAdityaSonu&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+ ![](https://github-contributor-stats.vercel.app/api?username=AsAdityaSonu&limit=5&theme=algolia&combine_all_yearly_contributions=true) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AsAdityaSonu&icon=2&color=0)](https://visitcount.itsvg.in)
