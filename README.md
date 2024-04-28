@@ -53,8 +53,8 @@ Portfolio Website: https://asadityasonu.github.io
 
 <img width="48%" src="https://streak-stats.demolab.com/?user=AsAdityaSonu&theme=react&hide_border=true&background=0D1117" alt="AsAdityaSonu" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsAdityaSonu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Jekyll-Default-Website&border_radius=10&bg_color=0D1117" alt="AsAdityaSonu" /> 
-</p>
+<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsAdityaSonu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Jekyll-Default-Website&border_radius=10&bg_color=0D1117" alt="AsAdityaSonu" /> 
+</p> -->
 
 
 <!--  ## 🐦 Latest Tweet
