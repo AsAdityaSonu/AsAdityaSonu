@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 👋 Hello there! I'm ADITYA PANDEY, a student at Thapar Institute of Engineering and Technology.
 
-🌱 I’m currently learning Web Development
+🌱 I’m currently learning ML/DL
 
 💡 Passionate about learning new tecnologies.
 
@@ -73,4 +73,4 @@ Portfolio Website: https://asadityasonu.github.io
 [![](https://visitcount.itsvg.in/api?id=AsAdityaSonu&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
-<a href="https://www.buymeacoffee.com/basavrajC"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/AsAdityaSonu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
