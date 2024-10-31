@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 📫 If you want to connect with me or learn more about my work, feel free to visit my GitHub profile or drop me an email at asadityasonu@gmail.com. I'm always open to interesting conversations and collaborations!
 
-Portfolio Website: https://asadityasonu.github.io
+Portfolio Website: [adityaapandey.vercel.app](https://adityaapandey.vercel.app/)
 
 
 ## 🌐 Socials:
