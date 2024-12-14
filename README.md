@@ -7,7 +7,6 @@
 - 👯 **I’m looking to collaborate on:** Innovative projects involving **ML/DL, IoT, and React-based development**.  
 - 🤝 **I’m looking for help with:** Exploring **IoT-related projects** and expanding my knowledge of cloud systems.  
 - 💬 **Ask me about:** Machine Learning, React, Node.js, or my projects like *Irrigo Twin*, *Parking Scan*, and *Sweat Set*.  
-- ⚡ **Fun fact:** *“The best way to predict the future is to invent it!”*
 
 📫 **How to reach me:**  
 Email: [asadityasonu@gmail.com](mailto:asadityasonu@gmail.com)  
