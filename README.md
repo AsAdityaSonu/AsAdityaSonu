@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=AsAdityaSonu&label=Profile%20Views&color=blue&style=for-the-badge)
+
 # ✨ **About Me**
 
 👋 **Hello there!** I'm **Aditya Pandey**, a student at **Thapar Institute of Engineering and Technology**.
@@ -63,7 +65,8 @@ Portfolio: [adityaapandey.vercel.app](https://adityaapandey.vercel.app/)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/asadityasonu)  
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=AsAdityaSonu&label=Profile%20Views&color=blue&style=for-the-badge)
+## 
 
-
-🚀 **Fun Fact:** *"The best way to predict the future is to invent it!"*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7DF1E&size=20&center=true&vCenter=true&width=500&lines=I+would+love+to+change+the+world,;but+they+won’t+give+me+the+source+code!&pause=2000&center=true&vCenter=true&repeat=true" />
+</p>
