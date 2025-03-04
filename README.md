@@ -12,14 +12,12 @@
 Email: [asadityasonu@gmail.com](mailto:asadityasonu@gmail.com)  
 Portfolio: [adityaapandey.vercel.app](https://adityaapandey.vercel.app/)
 
----
 
 ## 🌐 **Socials**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asadityasonu) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/asadityasonu)  
 
----
 
 ## 💻 **Tech Stack**
 
@@ -48,7 +46,6 @@ Portfolio: [adityaapandey.vercel.app](https://adityaapandey.vercel.app/)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
 
----
 
 ## 📈 **GitHub Stats**
 
@@ -60,14 +57,13 @@ Portfolio: [adityaapandey.vercel.app](https://adityaapandey.vercel.app/)
 <img width="48%" src="https://streak-stats.demolab.com/?user=AsAdityaSonu&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
 </p>
 
----
 
 ## 💰 **Support Me**  
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/asadityasonu)  
 
----
 
-[![](https://visitcount.itsvg.in/api?id=AsAdityaSonu&icon=2&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=AsAdityaSonu&label=Profile%20Views&color=blue&style=for-the-badge)
+
 
 🚀 **Fun Fact:** *"The best way to predict the future is to invent it!"*
