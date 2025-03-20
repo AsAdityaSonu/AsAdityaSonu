@@ -1,14 +1,18 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AsAdityaSonu&label=Profile%20Views&color=blue&style=for-the-badge)
 
-# ✨ **About Me**
+# ✨ **About Me**  
 
-👋 **Hello there!** I'm **Aditya Pandey**, a student at **Thapar Institute of Engineering and Technology**.
+👋 **Hi!** I'm **Aditya Pandey**, a B.Tech student at **Thapar Institute of Engineering and Technology**.  
 
-- 🔭 **I’m currently working on:** Developing the *Official Website of an Organization*.  
-- 🌱 **I’m currently learning:** Machine Learning (ML) and Deep Learning (DL).  
-- 👯 **I’m looking to collaborate on:** Innovative projects involving **ML/DL, IoT, and React-based development**.  
-- 🤝 **I’m looking for help with:** Exploring **IoT-related projects** and expanding my knowledge of cloud systems.  
-- 💬 **Ask me about:** Machine Learning, React, Node.js, or my projects like *Irrigo Twin*, *Parking Scan*, and *Sweat Set*.  
+- 🔭 **Currently Working On:**  
+  - A **rice plant monitoring system** using edge computing & multi-spectral imaging.  
+  - **UPF priority flow detection** research.  
+  - Expanding **BitsInBinary** into a DSA-focused website.  
+- 🌱 **Learning:** ML, DL, IoT, and cloud computing.  
+- 👯 **Looking to collaborate on:** ML/DL, IoT, and Next.js projects.  
+- 🤝 **Seeking help with:** IoT optimizations & cloud scalability.  
+- 💬 **Ask me about:** ML, React, Next.js, Edge Computing, or my projects (*Irrigo Twin, Parking Scan, Sweat Set*).  
+
 
 📫 **How to reach me:**  
 Email: [asadityasonu@gmail.com](mailto:asadityasonu@gmail.com)  
@@ -24,24 +28,26 @@ Portfolio: [adityaapandey.vercel.app](https://adityaapandey.vercel.app/)
 ## 💻 **Tech Stack**
 
 ### **Languages**  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23E34F26.svg?style=for-the-badge&logo=MATLAB&logoColor=white)
 
 ### **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+
+
 
 ### **Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+
 
 ### **Tools & Cloud**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ### **Design**  
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
@@ -55,15 +61,15 @@ Portfolio: [adityaapandey.vercel.app](https://adityaapandey.vercel.app/)
 <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=AsAdityaSonu&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
+<!--
 <p align="center">
-<img width="48%" src="https://streak-stats.demolab.com/?user=AsAdityaSonu&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=AsAdityaSonu&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-
+-->
 
 ## 💰 **Support Me**  
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/asadityasonu)  
-
 
 ## 
 
