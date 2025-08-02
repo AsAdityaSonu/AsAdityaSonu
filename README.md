@@ -51,8 +51,6 @@ currently_learning: ["ML", "DL", "IoT", "Cloud Computing"]
 
 <br clear="both">
 
----
-
 <div align="left">
 
 ## 📧 **How to reach me:**
@@ -119,7 +117,7 @@ currently_learning: ["ML", "DL", "IoT", "Cloud Computing"]
 </div>
 </div>
 
-## 💰 **🧑‍💻 Be Part of My Journey**
+## **🧑‍💻 Be Part of My Journey**
 
 <div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
   <a href="https://buymeacoffee.com/asadityasonu">
