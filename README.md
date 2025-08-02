@@ -1,7 +1,13 @@
 <!-- Animated terminal -->
-<div align="center" style="margin: 10px 0;">
+<!-- <div align="center" style="margin: 10px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&width=500&height=80&lines=%24+whoami;%3E+Aditya+Pandey;%24+cat+skills.txt;%3E+AI%2FML+%7C+IoT+%7C+Full+Stack;%24+echo+%22Building+the+future%22;%3E+Building+the+future...;%24+git+status;%3E+Ready+to+collaborate!" alt="Terminal Animation" />
+</div> -->
+
+<div align="center" style="margin: 10px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&height=80&lines=%24+whoami;%3E+Aditya+Pandey;%24+cat+skills.txt;%3E+AI%2FML+%7C+IoT+%7C+Cloud+%7C+Full+Stack;%24+echo+%22Solving+real-world+problems%22;%3E+Building+the+future...;%24+git+status;%3E+Ready+to+collaborate!" alt="Terminal Animation" />
 </div>
+
+
 
 <!-- Profile Animation -->
 <div align="left">
@@ -13,19 +19,22 @@
   <pre>
 <code>yaml
 name: Aditya Pandey
-located_in: Thapar Institute of Engineering and Technology
-current_job: B.Tech Student
+located_in: Patiala, Punjab
+current_job: B.Tech 4th Year Student
 education: 
-  - "Computer Science Engineering"
-  - "Specialization in AI & ML"
+  - "B.Tech in Computer Science and Engineering"
 
 fields_of_interests:
   - "Machine Learning & Deep Learning"
   - "Internet of Things (IoT)"
-  - "Edge Computing & Cloud Technologies"
+  - "Edge & Cloud Computing"
   - "Full Stack Development"
+  - "AgriTech and AI for Social Good"
 
-currently_learning: ["ML", "DL", "IoT", "Cloud Computing"]
+internships:
+  - "TIET Summer Internship - Research Intern (2 months)"
+  - "Samsung PRISM - Research Intern (6 months)"
+  - "Optum - Technology Development Program Intern (2 months)"
 </code>
   </pre>
 
