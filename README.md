@@ -19,29 +19,27 @@
   <pre>
 <code>yaml
 name: Aditya Pandey
-located_in: Patiala, Punjab
-current_job: B.Tech 4th Year Student
+location: Patiala, Punjab
+role: B.Tech CSE, 4th Year
 education: 
-  - "B.Tech in Computer Science and Engineering"
+  - "B.E CSE"
 
 fields_of_interests:
-  - "Machine Learning & Deep Learning"
-  - "Internet of Things (IoT)"
-  - "Edge & Cloud Computing"
-  - "Full Stack Development"
-  - "AgriTech and AI for Social Good"
+  - "ML/DL"
+  - "Cloud"
+  - "Full Stack"
+  - "AgriTech & AI4Good"
 
 internships:
-  - "TIET Summer Internship - Research Intern (2 months)"
-  - "Samsung PRISM - Research Intern (6 months)"
-  - "Optum - Technology Development Program Intern (2 months)"
+  - "Optum: Tech Dev Intern (2mo)"
+  - "Samsung PRISM: Research Intern (6mo)"
+  - "TIET: Research Intern (2mo)"
 </code>
   </pre>
 
   <h3>🔭 <strong>Currently Working On:</strong></h3>
   <ul>
     <li>A <strong>rice plant monitoring system</strong> using edge computing & multi-spectral imaging 🌾</li>
-    <li><strong>UPF priority flow detection</strong> research 🔬</li>
     <li>Expanding <strong>BitsInBinary</strong> into a DSA-focused website 💻</li>
   </ul>
 <!-- 
