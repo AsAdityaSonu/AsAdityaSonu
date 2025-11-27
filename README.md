@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&width=500&height=80&lines=%24+whoami;%3E+Aditya+Pandey;%24+cat+skills.txt;%3E+AI%2FML+%7C+IoT+%7C+Full+Stack;%24+echo+%22Building+the+future%22;%3E+Building+the+future...;%24+git+status;%3E+Ready+to+collaborate!" alt="Terminal Animation" />
 </div> -->
 
+
 <div align="center" style="margin: 10px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&height=80&lines=%24+whoami;%3E+Aditya+Pandey;%24+cat+skills.txt;%3E+AI%2FML+%7C+IoT+%7C+Cloud+%7C+Full+Stack;%24+echo+%22Solving+real-world+problems%22;%3E+Building+the+future...;%24+git+status;%3E+Ready+to+collaborate!" alt="Terminal Animation" />
 </div>
@@ -37,11 +38,13 @@ internships:
 </code>
   </pre>
 
-  <h3>🔭 <strong>Currently Working On:</strong></h3>
-  <ul>
-    <li>A <strong>rice plant monitoring system</strong> using edge computing & multi-spectral imaging 🌾</li>
-    <li>Expanding <strong>BitsInBinary</strong> into a DSA-focused website 💻</li>
-  </ul>
+<h4>🔭 <strong>Building </strong>
+  <a href="https://bitsinbinary.com" target="_blank" rel="noopener noreferrer">
+    BitsInBinary
+  </a>
+  — a learning platform for coding, AI, and engineering minds 🚀
+</h4>
+
 <!-- 
   <h3>🌱 <strong>Learning:</strong></h3> 
   <p>ML, DL, IoT, and cloud computing</p>
