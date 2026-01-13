@@ -32,6 +32,7 @@ fields_of_interests:
   - "AgriTech & AI4Good"
 
 internships:
+  - "Partnr: SDE Intern (6mo)"
   - "Optum: Tech Dev Intern (2mo)"
   - "Samsung PRISM: Research Intern (6mo)"
   - "TIET: Research Intern (2mo)"
