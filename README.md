@@ -19,25 +19,27 @@
 
   <pre>
 <code>yaml
-name: Aditya Pandey
-location: Gurugram, Haryana
-role: B.Tech CSE, 4th Year
-education: 
-  - "B.E CSE"
+NAME: Aditya Pandey
+LOCATION: Gurugram, Haryana, India
 
-fields_of_interests:
-  - "ML/DL"
-  - "Cloud"
-  - "Full Stack"
+ROLE: Software Engineer
 
-internships:
-  - "Partnr: SDE Intern (6mo)"
-  - "Optum: Tech Dev Intern (2mo)"
+EDUCATION:
+  - "B.E. Computer Engineering, Thapar Institute of Engineering & Technology"
+
+FIELDS_OF_INTEREST:
+  - "Machine Learning & Deep Learning"
+  - "Cloud Computing"
+  - "Full-Stack Development"
+
+EXPERIENCE:
+  - "Optum: Software Engineer (Jul 2026 - Present)"
+
+INTERNSHIPS:
+  - "Partnr: Software Development Engineer Intern (6mo)"
+  - "Optum: Technology Development Intern (2mo)"
   - "Samsung PRISM: Research Intern (6mo)"
   - "TIET: Research Intern (2mo)"
-
-  experience:
-  - "Optum: Software Engineer (Jul 2026 - Present)"
 </code>
   </pre>
 
