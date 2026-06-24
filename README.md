@@ -35,6 +35,9 @@ internships:
   - "Optum: Tech Dev Intern (2mo)"
   - "Samsung PRISM: Research Intern (6mo)"
   - "TIET: Research Intern (2mo)"
+
+  experience:
+  - "Optum: Software Engineer (Jul 2026 - Present)"
 </code>
   </pre>
 
