@@ -39,7 +39,7 @@ interests:
   <tr>
     <td width="60%" valign="middle">
       <h3>BitsInBinary</h3>
-      An evolving learning ecosystem for coding, AI, and the engineers of tomorrow. Built in the open, shipped one commit at a time.
+      BitsInBinary (BiB) is a learning platform where we explain tech stacks and programming concepts in the simplest way possible. Understand how things work behind the scenes.
       <br/><br/>
       <a href="https://bitsinbinary.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Visit-bitsinbinary.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E3A8A" alt="Visit bitsinbinary.com"/>
